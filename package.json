@@ -1,0 +1,13 @@
+{
+    "name": "",
+    "version": "0.0.01",
+    "description": "",
+    "author": "yelikang",
+    "license": "ISC",
+    "peerDependencies": {
+    },
+    "dependencies": {
+      "vue": "^2.7.14"
+    }
+  }
+  
