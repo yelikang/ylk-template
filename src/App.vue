@@ -1,5 +1,5 @@
 <template>
     <div>
-        hello2
+        组件库模板
     </div>
 </template>
