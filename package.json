@@ -4,6 +4,10 @@
     "description": "",
     "author": "yelikang",
     "license": "ISC",
+    "scripts": {
+      "dev":"hsd dev",
+      "build":"hsd build"
+    },
     "peerDependencies": {
     },
     "dependencies": {
